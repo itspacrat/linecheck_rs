@@ -9,8 +9,8 @@
 - anyone who likes the tools i have wrapped up in a litle bow with this project.
 ## what stuff can i do with it *right now*?
 you can currently do the following:
-- check if the length of an iterator is a perfect square
-- check if the value of an integer is a perfect square
+- check if the length of an iterator is a perfect square ( https://github.com/itspacrat/linecheck_rs/commit/da5d64abe23935b9491198e360b018a5fa78eb94 )
+- check if the value of an integer is a perfect square ( https://github.com/itspacrat/linecheck_rs/commit/da5d64abe23935b9491198e360b018a5fa78eb94 )
 - check if the value of an integer is a perfect cube
 - check if the length of an iterator is a perfect cube
 ## what stuff is planned for *later*?
