@@ -9,10 +9,11 @@
 - anyone who likes the tools i have wrapped up in a litle bow with this project.
 ## what stuff can i do with it *right now*?
 you can currently do the following:
-- check if the count of data in a linear collection is a perfect square (via an iterator)
-- check if the value of an integer is a perfect square
+- check if the length of an iterator is a perfect square [da5d64a](https://github.com/itspacrat/linecheck_rs/commit/da5d64abe23935b9491198e360b018a5fa78eb94)
+- check if the value of an integer is a perfect square [da5d64a](https://github.com/itspacrat/linecheck_rs/commit/da5d64abe23935b9491198e360b018a5fa78eb94)
+- check if the value of an integer is a perfect cube
+- check if the length of an iterator is a perfect cube
 ## what stuff is planned for *later*?
-- checks over ints and collections for perfect cube criteria
 - set checks, which will be really useful for sudoku or other puzzle applicaitons
 ## where'd you get the audacity to make this?
 > i got the idea to make a 3d sudoku-like puzzle in rust from my girlfriend (which is going to now cost me all of my hair i fear)
